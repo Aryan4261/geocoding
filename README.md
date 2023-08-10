@@ -1,6 +1,6 @@
 ## Geocoding Script
 
-### This script takes an address and return its latitude and longitude.This process is called geocoding
+### This script takes an address and return its latitude and longitude. This process is called geocoding
 
 #### I have used the locationiq website's geocoding api inorder to solve this problem.
 
